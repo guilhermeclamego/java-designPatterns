@@ -1,8 +1,5 @@
 import br.com.alura.loja.desconto.CalculadoraDeDescontos;
-import br.com.alura.loja.imposto.CalculadoraDeImpostos;
-import br.com.alura.loja.imposto.ICMS;
 import br.com.alura.loja.orcamento.Orcamento;
-import com.sun.org.apache.xpath.internal.operations.Or;
 
 import java.math.BigDecimal;
 
